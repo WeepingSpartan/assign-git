@@ -3,10 +3,10 @@ What is a gitignore file and what should it include for a Java project?
 A git ignore file is a text file that tells git which files to ignore in a project. For a java project, by default it includes the compiled class file, log file, BlueJ files, Mobile tools for Java (J2ME), package files and a virtual machine crash log file.
 
 What does fast-forward in Git mean?
-it means to update the head point such that the new added value is directly under the prior value.
+It means to update the head point such that the new added value is directly under the prior value.
 
 Why should you have different branches?
-It helps to isolate changes and allow us to work on different features without affecting other brances.
+It helps to isolate changes and allow us to work on different features without affecting other branches.
 
 In a project how many remote Git repositories do you usually have?
 You can create as many remote repositories as you want in github based on the n number of features you'd want to test.
